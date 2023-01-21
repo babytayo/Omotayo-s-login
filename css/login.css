@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+}
+
+fieldset {
+    height: 29em;
+    width: 10em;
+    margin: 5em 30em;
+    border-radius: 30px;
+}
+
+#img {
+    margin-top: 10px;
+}
+
+#header {
+    text-align: center;
+}
+
+.input {
+    margin-top: 50px;
+}
+
+.input1 {
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.login {
+    height: 2em;
+    width: 24em;
+    text-align: center;
+    font-size: 19px;
+    font-weight: bolder;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 20px 0px;
+    background-color: #e0e0d1;
+}
+
+.login:hover {
+    background-color: white;
+}
+
+a {
+    color: #d6d6c2;
+    font-size: 22px;
+}
+
+a:hover {
+    color: black;
+}
+
+p {
+    font-size: 20px;
+}

@@ -1,0 +1,39 @@
+ body {
+     font-family: sans-serif;
+ }
+
+ fieldset {
+     height: 35em;
+     width: 20em;
+     margin: 5em 30em;
+     border-radius: 30px;
+ }
+
+ #header {
+     text-align: center;
+ }
+
+ .input {
+     margin: 4px;
+     font-size: 20px;
+ }
+
+ #country {
+     width: 22.5em;
+     margin-top: 35px;
+     font-size: 20px;
+ }
+
+ .submit {
+     background-color: #d6d6c2;
+     border: white;
+     width: 22.5em;
+     margin-top: 40px;
+     margin-bottom: 20px;
+     font-size: 20px;
+
+ }
+
+ .submit:hover {
+     background-color: whitesmoke;
+ }
